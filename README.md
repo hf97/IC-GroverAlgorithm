@@ -5,4 +5,4 @@ Interacção e Concorrência - Grover's Algorithm
 
 [Jupyter](https://github.com/hf97/IC-GroverAlgorithm/blob/main/GroverAlgorithm_a78555_a77252_grupo7.ipynb).
 
-[PDF final](https://github.com/hf97/IC-GroverAlgorithm/blob/main/GroverAlgorithm_a78555_a77252_grupo7.pdf).
+[Relatório](https://github.com/hf97/IC-GroverAlgorithm/blob/main/GroverAlgorithm_a78555_a77252_grupo7.pdf).
